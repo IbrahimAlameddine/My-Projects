@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2>MyProjects</h2>
 
 <p align="center">
@@ -114,3 +115,6 @@ npm run dev
 Open your browser and visit:
 
 http://127.0.0.1:8000
+=======
+# My-Projects
+>>>>>>> 7039bf9ebc47713ad6fba14bdf2049b1aae77d79
